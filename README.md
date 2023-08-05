@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Novaxis! 👋
 
-<!--
-**novaxis-language/novaxis-language** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the Novaxis Language profile. Novaxis is a lightweight and versatile configuration language designed to simplify data structure definition, configuration files, data serialization, and scripting.
 
-Here are some ideas to get you started:
+🚀 **Key Language Repositories:**
+- Novaxis for PHP: [novaxis-php](https://github.com/novaxis-language/novaxis-php)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 **Documentation:** Explore Novaxis and learn how to use it in our [Documentation](https://github.com/novaxis-language/novaxis-documents).
+
+🤝 **Contributions:** We welcome contributions from the community! Feel free to submit pull requests or open issues in our repositories.
+
+📫 **Contact:** Reach out to us via email at [novaxis-language@proton.me](mailto:novaxis-language@proton.me).
+
+Happy coding with Novaxis Language! 🚀
