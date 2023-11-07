@@ -3,7 +3,8 @@
 Welcome to the Novaxis Language profile. Novaxis is a lightweight and versatile configuration language designed to simplify data structure definition, configuration files, data serialization, and scripting.
 
 🚀 **Key Language Repositories:**
-- Novaxis for PHP: [Novaxis-php](https://github.com/novaxis-language/novaxis-php)
+- Novaxis for PHP: [Novaxis-PHP](https://github.com/novaxis-language/novaxis-php)
+- Novaxis for Typescript: [Novaxis-TypeScript](https://github.com/novaxis-language/novaxis-typescript)
 
 📖 **Documentation:** Explore Novaxis and learn how to use it in our [Documentation](https://github.com/novaxis-language/novaxis-documents).
 
